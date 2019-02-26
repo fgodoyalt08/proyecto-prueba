@@ -148,6 +148,6 @@ class FileController extends Controller
         $file = File::find($file->id);
         $file->delete();
 
-        return redirect('/files')->with('success', 'Usuario eliminado con éxito');
+        return redirect('/files')->with('success', 'Archivo eliminado con éxito');
     }
 }
