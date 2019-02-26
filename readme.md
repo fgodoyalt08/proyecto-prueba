@@ -7,16 +7,22 @@
 <h1><b>Instalación:</b></h1>
 
 <b>LOCAL</b>
-<span> 1: Clonar este repositorio </span>
-<p>2: Configurar la base de datos en el archivo .env (tomar el archivo .env.example de base y renombrarlo como .env) </p>
-3: Correr los siguientes comandos: <br>
-	composer install <br>
-	php artisan storage:link <br>
-	php artisan migrate <br>
-	php artisan db:seed <br>
-	php artisan key:generate <br>
-	php artisan serve <br>
-
+<ul>
+	<li>1: Clonar este repositorio</li>
+	<li>2: Configurar la base de datos en el archivo .env (tomar el archivo .env.example de base y renombrarlo como .env)</li>
+	<li>
+		<ul>
+			<li> 3: Correr los siguientes comandos:</li>
+			<li> composer install</li>
+			<li> php artisan storage:link</li>
+			<li> php artisan migrate</li>
+			<li> php artisan db:seed </li>
+			<li> php artisan key:generate</li>
+			<li> php artisan serve</li>
+		</ul>
+	</li>
+	<li></li>
+</ul>
 
 <b>Datos para ingresar</b>
 
