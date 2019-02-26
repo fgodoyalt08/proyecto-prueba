@@ -9,11 +9,11 @@
 <h1><b>Instalación:</b></h1>
 
 <b>LOCAL</b>
-1: Clonar este repositorio
-2: Configurar la base de datos en el archivo .env
-3: Correr los siguientes comandos:
-	composer install
-	php artisan storage:link
-	php artisan migrate
-	php artisan db:seed
-	php artisan serve
+1: Clonar este repositorio <br>
+2: Configurar la base de datos en el archivo .env <br>
+3: Correr los siguientes comandos: <br>
+	composer install <br>
+	php artisan storage:link <br>
+	php artisan migrate <br>
+	php artisan db:seed <br>
+	php artisan serve <br>
