@@ -75,6 +75,6 @@ class User extends Authenticatable
 
     public function scopeSearch($q)
     {
-        return empty(request()->search) ? $q : $q->where('name', 'like', '%'.request()->search.'%')->where('email', 'like', '%'.request()->search.'%');
+        return empty(request()->search) ? $q : $q->where('name', 'like', '%'.request()->search.'%')->orWhere('email', 'like', '%'.request()->search.'%');
     }
 }

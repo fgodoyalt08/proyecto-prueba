@@ -15,6 +15,6 @@ class File extends Model
 
 	public function scopeSearch($q)
     {
-        return empty(request()->search) ? $q : $q->where('title', 'like', '%'.request()->search.'%')->where('description', 'like', '%'.request()->search.'%');
+        return empty(request()->search) ? $q : $q->where('title', 'like', '%'.request()->search.'%')->orWhere('description', 'like', '%'.request()->search.'%');
     }
 }
