@@ -7,8 +7,8 @@
 <h1><b>Instalación:</b></h1>
 
 <b>LOCAL</b>
-1: Clonar este repositorio <br>
-2: Configurar la base de datos en el archivo .env (tomar el archivo .env.example de base y renombrarlo como .env) <br>
+<p> 1: Clonar este repositorio </p>
+<p>2: Configurar la base de datos en el archivo .env (tomar el archivo .env.example de base y renombrarlo como .env) </p>
 3: Correr los siguientes comandos: <br>
 	composer install <br>
 	php artisan storage:link <br>
