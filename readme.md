@@ -7,7 +7,7 @@
 <h1><b>Instalación:</b></h1>
 
 <b>LOCAL</b>
-<p> 1: Clonar este repositorio </p>
+<span> 1: Clonar este repositorio </span>
 <p>2: Configurar la base de datos en el archivo .env (tomar el archivo .env.example de base y renombrarlo como .env) </p>
 3: Correr los siguientes comandos: <br>
 	composer install <br>
