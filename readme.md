@@ -10,9 +10,8 @@
 <ul>
 	<li>1: Clonar este repositorio</li>
 	<li>2: Configurar la base de datos en el archivo .env (tomar el archivo .env.example de base y renombrarlo como .env)</li>
-	<li>
+	<li>3: Correr los siguientes comandos:
 		<ul>
-			<li> 3: Correr los siguientes comandos:</li>
 			<li> composer install</li>
 			<li> php artisan storage:link</li>
 			<li> php artisan migrate</li>
@@ -26,10 +25,20 @@
 
 <b>Datos para ingresar</b>
 
-Administrador:
-	Usuario: admin@project.com
-	Contraseña: admin
+<ul>
+	<li>Administrador: 
+		<ul>
+			<li>Usuario: admin@project.com</li>
+			<li>Contraseña: admin</li>
+		</ul>
+	</li>
+</ul>
 
-Usuario:
-	Usuario: user@project.com
-	Contraseña: user
+<ul>
+	<li>Usuario: 
+		<ul>
+			<li>Usuario: user@project.com</li>
+			<li>Contraseña: user</li>
+		</ul>
+	</li>
+</ul>
