@@ -14,4 +14,16 @@
 	php artisan storage:link <br>
 	php artisan migrate <br>
 	php artisan db:seed <br>
+	php artisan key:generate <br>
 	php artisan serve <br>
+
+
+<b>Datos para ingresar</b>
+
+Administrador:
+	Usuario: admin@project.com
+	Contraseña: admin
+
+Usuario:
+	Usuario: user@project.com
+	Contraseña: user
