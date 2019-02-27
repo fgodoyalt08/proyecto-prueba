@@ -1,16 +1,14 @@
 <h1><b>Caracteristicas:</b></h1>
 <ul>
 	<li> Laravel 5.7 <a href="https://laravel.com/docs/5.7/installation" target="_blank">Instrucciones de instalación</a> </li>
+	<li> Base de datos MySQL </li>
 	<li> Login </li>
 	<li> CRUD Usuarios</li>
 	<li> CRUD Roles</li>
-	<li> CRUD Archivos de Excels para los usuarios del Rol Administrador</li>
+	<li> CRUD Archivos de Excels para los usuarios Administradores</li>
 </ul>
-·         
-·         . <br>
-·         . <br>
-·          (deben poder hacer un Upload de archivos indicándole un Titulo y Descripción, listarlos, modificarlos y eliminarlos).. <br>
-·         Conexión a Base de datos MySQL. <br>
+
+
 <h1><b>Instalación:</b></h1>
 
 <b>LOCAL</b>
