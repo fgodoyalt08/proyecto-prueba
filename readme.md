@@ -1,8 +1,15 @@
 <h1><b>Caracteristicas:</b></h1>
-·         Laravel 5.7 <a href="https://laravel.com/docs/5.7/installation" target="_blank">Instrucciones de instalación</a>
-·         Login de Usuarios con Roles. <br>
-·         ABMC de Usuarios y Roles con paginación, filtros y ordenamientos de columnas. <br>
-·         ABMC de Archivos Excels para los usuarios del Rol Administrador (deben poder hacer un Upload de archivos indicándole un Titulo y Descripción, listarlos, modificarlos y eliminarlos).. <br>
+<ul>
+	<li> Laravel 5.7 <a href="https://laravel.com/docs/5.7/installation" target="_blank">Instrucciones de instalación</a> </li>
+	<li> Login </li>
+	<li> CRUD Usuarios</li>
+	<li> CRUD Roles</li>
+	<li> CRUD Archivos de Excels para los usuarios del Rol Administrador</li>
+</ul>
+·         
+·         . <br>
+·         . <br>
+·          (deben poder hacer un Upload de archivos indicándole un Titulo y Descripción, listarlos, modificarlos y eliminarlos).. <br>
 ·         Conexión a Base de datos MySQL. <br>
 <h1><b>Instalación:</b></h1>
 
